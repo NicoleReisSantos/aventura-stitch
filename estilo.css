@@ -1,18 +1,28 @@
-body{
+body{@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+
     background-color: red;
 color:black;
  text-align:  center;
  margin: 100px 0;
- font-size: 20px
-}
+ font-size: 20px;
+
+    font-family: "Roboto", sans-serif;
+} 
   main{
         max-width: 90%;
   }
   button{
-       background-color: black
-       color(srgb red green blue);
+       background-color: black;
+       color:(srgb red green blue);
        padding: 10px
   }
   .img01{
       width: 110%;
   }
+  .passo{
+      display: none;
+  }
+  
+    .passo.ativo{
+      display: block;
+    }
