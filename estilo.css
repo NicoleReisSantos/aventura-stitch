@@ -12,3 +12,6 @@ color:black
        background-color: black
        color(srgb red green blue);
        padding: 10px
+  }
+  .img01{
+      width: 106%
