@@ -1,12 +1,12 @@
 body{
     background-color: red;
-color:black
- text-aligm:  center;
+color:black;
+ text-align:  center;
  margin: 100px 0;
  font-size: 20px
 }
   main{
-        max-width: 90;
+        max-width: 90%;
   }
   button{
        background-color: black
@@ -14,4 +14,5 @@ color:black
        padding: 10px
   }
   .img01{
-      width: 110%
+      width: 110%;
+  }
